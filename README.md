@@ -3,7 +3,7 @@
 ## Project Overview:
 [0G Labs](https://0g.ai/) is a modular artificial intelligence blockchain with a scalable programmable data availability (DA) layer adapted for artificial intelligence dapps. Its modular technology enables seamless communication between chains, ensuring security, eliminating fragmentation, and maximizing connectivity. The project appeared on the radar until about 2 weeks ago after a $35M investment from Tier-1 funds, and today 0G are launching a paid testnet. At the time of writing this guide there are about ~300 nodes installed, so I recommend you don't hesitate and start installing. Node will be paid, the moderators of the project actively write about it in Discord. Before installing the node you need to pass the quests on Galxe. Let's take a detailed look at the investment, as well as the requirements for the server:
 
-**Invested:$35,000,000 (Hack VC, Delphi Digital, Animoca Brands, OKX and others)**
+**Invested: $35,000,000 (Hack VC, Delphi Digital, Animoca Brands, OKX and others)**
 
 **Server Specifications(recommended):**
 
