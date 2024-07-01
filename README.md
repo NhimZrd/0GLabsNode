@@ -185,9 +185,6 @@ sudo systemctl restart 0g
 ```
 sudo journalctl -u 0g -f
 ```
-
-![image](https://github.com/Mozgiii9/0GLabsSetupTheNode/assets/74683169/16bd60f4-f70f-4c1a-8d2d-5f4d6b3ffb05)
-
 **Delete the node:**
 
 ```
