@@ -185,7 +185,7 @@ sudo systemctl restart 0g
 ```
 sudo journalctl -u 0g -f
 ```
-**Delete the node:**
+**9. Delete the node:**
 
 ```
 sudo systemctl stop 0g
